@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://psychedell.github.io/csb-3i09co/static/css/main.174a1c1d.chunk.css",
+    "main.js": "https://psychedell.github.io/csb-3i09co/static/js/main.424a1f8c.chunk.js",
+    "main.js.map": "https://psychedell.github.io/csb-3i09co/static/js/main.424a1f8c.chunk.js.map",
+    "runtime-main.js": "https://psychedell.github.io/csb-3i09co/static/js/runtime-main.a7d20a50.js",
+    "runtime-main.js.map": "https://psychedell.github.io/csb-3i09co/static/js/runtime-main.a7d20a50.js.map",
+    "static/js/2.3782c89e.chunk.js": "https://psychedell.github.io/csb-3i09co/static/js/2.3782c89e.chunk.js",
+    "static/js/2.3782c89e.chunk.js.map": "https://psychedell.github.io/csb-3i09co/static/js/2.3782c89e.chunk.js.map",
+    "index.html": "https://psychedell.github.io/csb-3i09co/index.html",
+    "static/css/main.174a1c1d.chunk.css.map": "https://psychedell.github.io/csb-3i09co/static/css/main.174a1c1d.chunk.css.map",
+    "static/js/2.3782c89e.chunk.js.LICENSE.txt": "https://psychedell.github.io/csb-3i09co/static/js/2.3782c89e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7d20a50.js",
+    "static/js/2.3782c89e.chunk.js",
+    "static/css/main.174a1c1d.chunk.css",
+    "static/js/main.424a1f8c.chunk.js"
+  ]
+}
